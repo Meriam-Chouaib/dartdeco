@@ -1,0 +1,26 @@
+.product{
+    width: 100%;
+    .gutter-row{
+            padding: 40px 0px !important;
+
+    margin: auto !important;
+    .ant-card{
+        box-shadow: 0px 2px 7px black;
+        width: 50% !important;
+        margin: auto ;
+        
+        .ant-card-body{
+            .ant-btn.btn-add-to-card{
+                background-color: black !important;
+                border-radius:12px;
+                padding:12px 12px;
+                color: white ;
+            }
+        }
+    }
+   
+
+    }
+}
+
+/****/
