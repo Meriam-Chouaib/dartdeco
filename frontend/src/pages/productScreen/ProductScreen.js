@@ -65,7 +65,7 @@ const ProductScreen = ({ match}  ) => {
                                <Col md={3}>
                                    <ListGroup variant='flush'>
                                        <ListGroup.Item>
-                                           <h3>{product.name}</h3>
+                                           <h3>the name: {product.name}</h3>
 
                                        </ListGroup.Item>
                                        <ListGroup.Item>
